@@ -9,5 +9,7 @@ package model;
  * @author angeldvvp
  */
 public class ConexionBD {
-    
+    public void conexion(){
+        
+    }
 }
